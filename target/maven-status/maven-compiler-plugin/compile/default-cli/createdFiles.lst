@@ -1,0 +1,3 @@
+com\java\hadoop\mapreduce\WordCountApp$MyReducer.class
+com\java\hadoop\mapreduce\WordCountApp$MyMapper.class
+com\java\hadoop\mapreduce\WordCountApp.class
